@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The Digital Habsburg Platform is a loose collaboration of various projects that deal with prosopographical data and their modelling, focussing on the time span of ~1500 to ~1918 and a spatial extent of the Habsburg Monarchy.
 
-### More Information
+### Focal points
 
-A place to include any other types of information that you'd like to include about yourself.
+- Offices (i.e. relations between persons and institutions)
+- Institutional structures of administration (both secular and ecclesiastical)
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### Contact us
+
+- [Stephan Kurz](https://www.oeaw.ac.at/ihb/personen/kurz-stephan/)
+- [Daniel Schopper](https://www.oeaw.ac.at/acdh/team/current-team/daniel-schopper)
+- [Thomas Wallnig](https://ufind.univie.ac.at/de/person.html?id=35347)
+
