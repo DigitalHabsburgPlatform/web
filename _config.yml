@@ -9,7 +9,7 @@ name: Digital Habsburg Platform
 description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/dhp-network-logo.svg
+avatar: https://raw.githubusercontent.com/DigitalHabsburgPlatform/web/master/images/dhp-network-logo.svg
 
 #
 # Flags below are optional
