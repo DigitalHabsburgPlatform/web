@@ -3,6 +3,10 @@ layout: post
 title: Call for participation
 ---
 
+Prosopographical data modeling, Digital Habsburg Platform II 2021-06-10 and 2021-06-11: register at <https://www.oeaw.ac.at/acdh/events/event-series/acdh-ch-tool-gallery-71> 
+
+# DHP II 2021-06-10 and 2021-06-11: Call for participation
+
 Dear colleagues,
 
 on 10.6.2021 and 11.6.2021 the next [ACDH-CH Tool Gallery 7.1.](https://www.oeaw.ac.at/acdh/events/event-series/acdh-ch-tool-gallery-71) takes place online via Zoom, focusing on „Prosopographical Data Modeling, Digital Habsburg Platform 2“. 
