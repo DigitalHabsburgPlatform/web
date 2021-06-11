@@ -5,9 +5,10 @@ title: DHP II Day one wrap-up
 license: CC-BY https://creativecommons.org/licenses/by/4.0/deed.de
 ---
 
-Wrap-up of day one of the ACDH-CH TOOL GALLERY 7.1/Digital Habsburg Platform II – Round Table
+Wrap-up of day one of the ACDH-CH TOOL GALLERY 7.1/Digital Habsburg Platform II "Prosopographical data modeling, Digital Habsburg Platform II" – Round Table
 
-The event started with a warm welcome by [ACDH-CH](https://acdh.oeaw.ac.at/) director Alexandra Lenz, and then swiftly moved on to Matej Đurčo’s concise introduction [Slides at google](https://docs.google.com/presentation/d/1fZ8Oh3__fL8ZI3qka3LBomFoN8BvDAVW/edit#slide=id.p1) into the field of data modelling and why it matters for (not only "digital") humanities scholars. 
+
+The [event](https://www.oeaw.ac.at/acdh/events/event-series/acdh-ch-tool-gallery-71) started with a warm welcome by [ACDH-CH](https://acdh.oeaw.ac.at/) director Alexandra Lenz, and then swiftly moved on to Matej Đurčo’s concise introduction ([Slides at google](https://docs.google.com/presentation/d/1fZ8Oh3__fL8ZI3qka3LBomFoN8BvDAVW/edit#slide=id.p1)) into the field of data modelling and why it matters for (not only "digital") humanities scholars. 
 
 This was succeeded by the presentations of Daniel Jeller on the [Nuns and Monks – Prosopographical Interfaces, NAMPI](https://nampi.icar-us.eu/) project and Matthias Schlögl on the data model of APIS in general and of the [The Viennese Court. A prosopographical portal, VieCPro](https://viecpro.oeaw.ac.at/) project more specifically. 
 
@@ -36,4 +37,6 @@ On moderator Thomas Wallnig’s question if and with what amount of effort it we
 
 The takeaway message went back to square one and to Matej’s introduction: **What does one want to say about things?** Research questions prefigurate how we can, should and want to model our data – the rest is up to our decision, plus it would be good to agree on some common identifiers to work against the data silos. Conversion on the way is definitely possible, and accessing data from multiple sources is doable as long as it can be consumed by SPARQL queries! 
 
-(which will be discussed later in the event, that is on day two.)
+(which will be discussed later in the event, that is on [day two](DHP-II-wrapup-day-two).)
+
+/Wrap-up: Stephan Kurz, 2021-06-10, late in the day/
