@@ -22,7 +22,7 @@ In the last phase of the event, all teams joined the plenary once again to excha
 In the end, participants have been successful in: 
 
 - relating concepts to each other from different domains
-- preliminary conceptual or practical data massage (in the hands-on fashion, or at least or *data meditation* [Thomas Wallnig]) in order to 
+- preliminary conceptual or practical data massage (in the hands-on fashion, or at least or *data meditation* [Thomas Wallnig] in the more theoretical fashion) in order to 
 - think and create *convergent data* (a term once more emphasized by Howard Hotson in the discussion)
 
 **Interoperability is indeed achievable, but it needs some effort and reasoning.** The "Prosopographical data modeling, Digital Habsburg Platform II" event has shown throughout its two half-days that this is not exactly rocket science, but it definitely helps to have some working infrastructure and a team of tech-savvy colleagues willing to share their knowledge (and their knowledge graphs) with `*.*`.
