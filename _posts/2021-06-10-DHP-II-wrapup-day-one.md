@@ -30,7 +30,7 @@ In the difference department, Juoni mentioned not only the technology stack, but
 
 Juoni’s slides will eventually be made available here as well. 
 
-The ensuing round-table discussion included more elaboration with regard to the technical implementation that is planned for the second session on day two, the insight that in general it is much easier to implement positive statements, while uncertainty or the lack of information on a thing is harder to express in an unambiguous way (using RDF, at least). 
+The ensuing round-table discussion included more elaboration with regard to the technical implementation that is planned for the second session on day two, the insight that in general it is much easier to implement positive statements, while uncertainty or the lack of information on a thing is harder to express in an unambiguous way (using RDF, at least), and the centrality of document interpretation acts during any kind of research work or establishment of "knowledge". 
 
 On moderator Thomas Wallnig’s question if and with what amount of effort it were possible to stitch together (prosopographical) data that a) was modelled in the APIS and NAMPI ways, respectively) and b) was external to both in a way that was truly interoperable, the podium quickly agreed (once more) that agreement on one data model ("to rule them all") was fortunately not necessary, but that heterogeneity and polyvocality were possible as long as some common ground was there to be found (align what is alignable, map what’s mappable). 
 
