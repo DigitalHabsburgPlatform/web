@@ -37,6 +37,6 @@ On moderator Thomas Wallnig’s question if and with what amount of effort it we
 
 The takeaway message went back to square one and to Matej’s introduction: **What does one want to say about things?** Research questions prefigurate how we can, should and want to model our data – the rest is up to our decision, plus it would be good to agree on some common identifiers to work against the data silos. Conversion on the way is definitely possible, and accessing data from multiple sources is doable as long as it can be consumed by SPARQL queries! 
 
-(which will be discussed later in the event, that is on [day two](DHP-II-wrapup-day-two).)
+(which will be discussed later in the event, that is on [day two](../DHP-II-wrapup-day-two).)
 
-/Wrap-up: Stephan Kurz, 2021-06-10, late in the day/
+*/Wrap-up: Stephan Kurz, 2021-06-10, late in the day/*
