@@ -13,8 +13,8 @@ This was succeeded by the presentations of Daniel Jeller on the [Nuns and Monks 
 
 The slides of both presentations are available:
 
-- <resources/2021-06-10_ACDH-CH_Tool_Gallery_7-1_Nampi_Daniel_Jeller.pdf>
-- <resources/2021-06-10_ACDH-CH_Tool_Gallery_7-1_VieCPro_Matthias_Schloegl.pdf> / [reveal.js/GitHub pages](https://sennierer.github.io/viecpro_toolgallery_presentation_2021/), respectively.
+- [2021-06-10_ACDH-CH_Tool_Gallery_7-1_Nampi_Daniel_Jeller.pdf](../resources/2021-06-10_ACDH-CH_Tool_Gallery_7-1_Nampi_Daniel_Jeller.pdf)
+- [2021-06-10_ACDH-CH_Tool_Gallery_7-1_VieCPro_Matthias_Schloegl.pdf](../resources/2021-06-10_ACDH-CH_Tool_Gallery_7-1_VieCPro_Matthias_Schloegl.pdf) / [reveal.js/GitHub pages](https://sennierer.github.io/viecpro_toolgallery_presentation_2021/), respectively.
 
 Both NAMPI and APIS use their own internal data model for obvious reasons of dealing with very different prosopographical research questions, and moreover with special groups involved with different social domains (monastic versus court-centered) – and both are (working on) providing RDF serialized in a flavour of the [CIDOC CRM](http://www.cidoc-crm.org/) for interoperability goals. 
 
