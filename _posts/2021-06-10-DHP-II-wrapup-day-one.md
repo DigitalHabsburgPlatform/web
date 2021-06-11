@@ -7,7 +7,7 @@ license: CC-BY https://creativecommons.org/licenses/by/4.0/deed.de
 
 Wrap-up of day one of the ACDH-CH TOOL GALLERY 7.1/Digital Habsburg Platform II – Round Table
 
-The event started with a warm welcome by [ACDH-CH](https://acdh.oeaw.ac.at/) director Alexandra Lenz, and then swiftly moved on to Matej Đurčo’s concise introduction into the field of data modelling and why it matters for (not only "digital") humanities scholars. (Slides tba)
+The event started with a warm welcome by [ACDH-CH](https://acdh.oeaw.ac.at/) director Alexandra Lenz, and then swiftly moved on to Matej Đurčo’s concise introduction [Slides at google](https://docs.google.com/presentation/d/1fZ8Oh3__fL8ZI3qka3LBomFoN8BvDAVW/edit#slide=id.p1) into the field of data modelling and why it matters for (not only "digital") humanities scholars. 
 
 This was succeeded by the presentations of Daniel Jeller on the [Nuns and Monks – Prosopographical Interfaces, NAMPI](https://nampi.icar-us.eu/) project and Matthias Schlögl on the data model of APIS in general and of the [The Viennese Court. A prosopographical portal, VieCPro](https://viecpro.oeaw.ac.at/) project more specifically. 
 
